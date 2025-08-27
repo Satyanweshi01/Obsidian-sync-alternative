@@ -12,3 +12,6 @@ Guide -
 "google_drive_folder" is your_google_driver_folder_location
 "desktop" is your_pull_folder_location
 "seven_zip_path" is your_7z.exe_location
+
+My email(Feel free to reach out)-
+prolaymondal047@gmail.com
